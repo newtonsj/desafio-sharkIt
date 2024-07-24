@@ -7,9 +7,9 @@ Para executar o projeto:
 
 Na raiz da aplicação, executar os seguintes comandos:
 
-1  mvn clean package
-2 docker compose build
-3 docker compose up
+-1  mvn clean package
+-2 docker compose build
+-3 docker compose up
 
 Após inicializar, é possível chamar as apis através do swagger:
 
